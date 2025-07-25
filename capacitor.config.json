@@ -1,0 +1,6 @@
+{
+  "appId": "com.selection.game",
+  "appName": "Selection",
+  "webDir": "src",
+  "bundledWebRuntime": false
+}
